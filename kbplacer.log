@@ -2,7 +2,7 @@
 [kbplacer_plugin_action.py:64]: Python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
 [kbplacer_plugin_action.py:65]: KiCad version: 8.0.2 with 4.2.2a1 osx-cocoa (phoenix) wxWidgets 3.2.4
 [kbplacer_dialog.py:584]: Language: en
-[kbplacer_plugin_action.py:76]: GUI state: {"layout_path": "/Users/hiplandic/developer/01 Puffin/Layout/puffin-51.json", "key_distance": [18.0, 17.0], "key_info": {"annotation_format": "S{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "enable_diode_placement": true, "route_switches_with_diodes": true, "diode_info": {"annotation_format": "D{}", "position_option": "Custom", "position": {"x": 7.75, "y": 1.05, "orientation": 90.0, "side": "Back"}, "template_path": ""}, "additional_elements": [{"annotation_format": "LED{}", "position_option": "Custom", "position": {"x": 0.0, "y": 4.7, "orientation": 0.0, "side": "Back"}, "template_path": ""}], "route_rows_and_columns": false, "template_path": "", "generate_outline": false, "outline_delta": 0.0}
+[kbplacer_plugin_action.py:76]: GUI state: {"layout_path": "/Users/hiplandic/developer/01 Puffin/Layout/puffin-51.json", "key_distance": [18.0, 17.0], "key_info": {"annotation_format": "S{}", "position_option": "Default", "position": {"x": 0.0, "y": 0.0, "orientation": 0.0, "side": "Front"}, "template_path": ""}, "enable_diode_placement": true, "route_switches_with_diodes": true, "diode_info": {"annotation_format": "D{}", "position_option": "Custom", "position": {"x": 7.75, "y": 1.05, "orientation": 90.0, "side": "Back"}, "template_path": ""}, "additional_elements": [{"annotation_format": "LED{}", "position_option": "Custom", "position": {"x": 0.0, "y": 4.7, "orientation": 0.0, "side": "Back"}, "template_path": ""}, {"annotation_format": "C{}", "position_option": "Custom", "position": {"x": -5.35, "y": 3.95, "orientation": 0.0, "side": "Back"}, "template_path": ""}], "route_rows_and_columns": false, "template_path": "", "generate_outline": false, "outline_delta": 0.0}
 [key_placer.py:299]: Set key 1U distance: 18000000/17000000
 [key_placer.py:112]: Switches by nets: defaultdict(<class 'list'>, {frozenset({'Col1', 'Row5'}): ['S43'], frozenset({'Col9', 'Row4'}): ['S39'], frozenset({'Row2', 'Col11'}): ['S17'], frozenset({'Row1', 'Col9'}): ['S6'], frozenset({'Col1', 'Row3'}): ['S19'], frozenset({'Col12', 'Row2'}): ['S18'], frozenset({'Col3', 'Row5'}): ['S45'], frozenset({'Row3', 'Col7'}): ['S25'], frozenset({'Row3', 'Col10'}): ['S28'], frozenset({'Col3', 'Row4'}): ['S33'], frozenset({'Col2', 'Row5'}): ['S44'], frozenset({'Col7', 'Row5'}): ['S47'], frozenset({'Row3', 'Col5'}): ['S23'], frozenset({'Col5', 'Row1'}): ['S2'], frozenset({'Col1', 'Row4'}): ['S31'], frozenset({'Col3', 'Row3'}): ['S21'], frozenset({'Row2', 'Col10'}): ['S16'], frozenset({'Col12', 'Row5'}): ['S51'], frozenset({'Col10', 'Row5'}): ['S49'], frozenset({'Col3', 'Row2'}): ['S9'], frozenset({'Row2', 'Col8'}): ['S14'], frozenset({'Row2', 'Col4'}): ['S10'], frozenset({'Col2', 'Row4'}): ['S32'], frozenset({'Row3', 'Col9'}): ['S27'], frozenset({'Col11', 'Row5'}): ['S50'], frozenset({'Row1', 'Col8'}): ['S5'], frozenset({'Col11', 'Row4'}): ['S41'], frozenset({'Col6', 'Row4'}): ['S36'], frozenset({'Row2', 'Col6'}): ['S12'], frozenset({'Row3', 'Col6'}): ['S24'], frozenset({'Row5', 'Col9'}): ['S48'], frozenset({'Col10', 'Row4'}): ['S40'], frozenset({'Col5', 'Row4'}): ['S35'], frozenset({'Row3', 'Col8'}): ['S26'], frozenset({'Row3', 'Col11'}): ['S29'], frozenset({'Row2', 'Col9'}): ['S15'], frozenset({'Row1', 'Col6'}): ['S3'], frozenset({'Row2', 'Col5'}): ['S11'], frozenset({'Row3', 'Col4'}): ['S22'], frozenset({'Row3', 'Col12'}): ['S30'], frozenset({'Col7', 'Row1'}): ['S4'], frozenset({'Col12', 'Row4'}): ['S42'], frozenset({'Col1', 'Row2'}): ['S7'], frozenset({'Col4', 'Row4'}): ['S34'], frozenset({'Row3', 'Col2'}): ['S20'], frozenset({'Col7', 'Row4'}): ['S37'], frozenset({'Col2', 'Row2'}): ['S8'], frozenset({'Col8', 'Row4'}): ['S38'], frozenset({'Col5', 'Row5'}): ['S46'], frozenset({'Row2', 'Col7'}): ['S13'], frozenset({'Row1', 'Col4'}): ['S1']})
 [key_placer.py:116]: Diodes by switch: {'S28': ['D28'], 'S40': ['D40'], 'S10': ['D10'], 'S33': ['D33'], 'S11': ['D11'], 'S39': ['D39'], 'S26': ['D26'], 'S35': ['D35'], 'S14': ['D14'], 'S25': ['D25'], 'S29': ['D29'], 'S19': ['D19'], 'S9': ['D9'], 'S18': ['D18'], 'S32': ['D32'], 'S12': ['D12'], 'S27': ['D27'], 'S23': ['D23'], 'S16': ['D16'], 'S20': ['D20'], 'S6': ['D6'], 'S51': ['D51'], 'S21': ['D21'], 'S44': ['D44'], 'S37': ['D37'], 'S7': ['D7'], 'S5': ['D5'], 'S1': ['D1'], 'S34': ['D34'], 'S38': ['D38'], 'S24': ['D24'], 'S49': ['D49'], 'S47': ['D47'], 'S50': ['D50'], 'S41': ['D41'], 'S15': ['D15'], 'S45': ['D45'], 'S22': ['D22'], 'S3': ['D3'], 'S43': ['D43'], 'S36': ['D36'], 'S46': ['D46'], 'S42': ['D42'], 'S48': ['D48'], 'S13': ['D13'], 'S4': ['D4'], 'S8': ['D8'], 'S31': ['D31'], 'S2': ['D2'], 'S30': ['D30'], 'S17': ['D17']}
@@ -165,156 +165,258 @@
 [board_modifier.py:96]: Getting S43 footprint position: (38250000, 102000000)
 [board_modifier.py:63]: Searching for LED43 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED43 footprint position: (38250000, 106700000)
+[board_modifier.py:63]: Searching for C43 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C43 footprint position: (32900000, 105950000)
 [board_modifier.py:96]: Getting S39 footprint position: (189000000, 85000000)
 [board_modifier.py:63]: Searching for LED39 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED39 footprint position: (189000000, 89700000)
+[board_modifier.py:63]: Searching for C39 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C39 footprint position: (183650000, 88950000)
 [board_modifier.py:96]: Getting S17 footprint position: (216000000, 51000000)
 [board_modifier.py:63]: Searching for LED17 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED17 footprint position: (216000000, 55700000)
+[board_modifier.py:63]: Searching for C17 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C17 footprint position: (210650000, 54950000)
 [board_modifier.py:96]: Getting S6 footprint position: (180000000, 34000000)
 [board_modifier.py:63]: Searching for LED6 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED6 footprint position: (180000000, 38700000)
+[board_modifier.py:63]: Searching for C6 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C6 footprint position: (174650000, 37950000)
 [board_modifier.py:96]: Getting S19 footprint position: (38250000, 68000000)
 [board_modifier.py:63]: Searching for LED19 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED19 footprint position: (38250000, 72700000)
+[board_modifier.py:63]: Searching for C19 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C19 footprint position: (32900000, 71950000)
 [board_modifier.py:96]: Getting S18 footprint position: (238500000, 51000000)
 [board_modifier.py:63]: Searching for LED18 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED18 footprint position: (238500000, 55700000)
+[board_modifier.py:63]: Searching for C18 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C18 footprint position: (233150000, 54950000)
 [board_modifier.py:96]: Getting S45 footprint position: (83250000, 102000000)
 [board_modifier.py:63]: Searching for LED45 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED45 footprint position: (83250000, 106700000)
+[board_modifier.py:63]: Searching for C45 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C45 footprint position: (77900000, 105950000)
 [board_modifier.py:96]: Getting S25 footprint position: (148500000, 68000000)
 [board_modifier.py:63]: Searching for LED25 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED25 footprint position: (148500000, 72700000)
+[board_modifier.py:63]: Searching for C25 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C25 footprint position: (143150000, 71950000)
 [board_modifier.py:96]: Getting S28 footprint position: (202500000, 68000000)
 [board_modifier.py:63]: Searching for LED28 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED28 footprint position: (202500000, 72700000)
+[board_modifier.py:63]: Searching for C28 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C28 footprint position: (197150000, 71950000)
 [board_modifier.py:96]: Getting S33 footprint position: (81000000, 85000000)
 [board_modifier.py:63]: Searching for LED33 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED33 footprint position: (81000000, 89700000)
+[board_modifier.py:63]: Searching for C33 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C33 footprint position: (75650000, 88950000)
 [board_modifier.py:96]: Getting S44 footprint position: (60750000, 102000000)
 [board_modifier.py:63]: Searching for LED44 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED44 footprint position: (60750000, 106700000)
+[board_modifier.py:63]: Searching for C44 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C44 footprint position: (55400000, 105950000)
 [board_modifier.py:96]: Getting S47 footprint position: (155250000, 102000000)
 [board_modifier.py:63]: Searching for LED47 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED47 footprint position: (155250000, 106700000)
+[board_modifier.py:63]: Searching for C47 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C47 footprint position: (149900000, 105950000)
 [board_modifier.py:96]: Getting S23 footprint position: (112500000, 68000000)
 [board_modifier.py:63]: Searching for LED23 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED23 footprint position: (112500000, 72700000)
+[board_modifier.py:63]: Searching for C23 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C23 footprint position: (107150000, 71950000)
 [board_modifier.py:96]: Getting S2 footprint position: (108000000, 34000000)
 [board_modifier.py:63]: Searching for LED2 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED2 footprint position: (108000000, 38700000)
+[board_modifier.py:63]: Searching for C2 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C2 footprint position: (102650000, 37950000)
 [board_modifier.py:96]: Getting S31 footprint position: (40500000, 85000000)
 [board_modifier.py:63]: Searching for LED31 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED31 footprint position: (40500000, 89700000)
+[board_modifier.py:63]: Searching for C31 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C31 footprint position: (35150000, 88950000)
 [board_modifier.py:96]: Getting S21 footprint position: (76500000, 68000000)
 [board_modifier.py:63]: Searching for LED21 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED21 footprint position: (76500000, 72700000)
+[board_modifier.py:63]: Searching for C21 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C21 footprint position: (71150000, 71950000)
 [board_modifier.py:96]: Getting S16 footprint position: (198000000, 51000000)
 [board_modifier.py:63]: Searching for LED16 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED16 footprint position: (198000000, 55700000)
+[board_modifier.py:63]: Searching for C16 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C16 footprint position: (192650000, 54950000)
 [board_modifier.py:96]: Getting S51 footprint position: (243000000, 102000000)
 [board_modifier.py:63]: Searching for LED51 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED51 footprint position: (243000000, 106700000)
+[board_modifier.py:63]: Searching for C51 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C51 footprint position: (237650000, 105950000)
 [board_modifier.py:96]: Getting S49 footprint position: (207000000, 102000000)
 [board_modifier.py:63]: Searching for LED49 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED49 footprint position: (207000000, 106700000)
+[board_modifier.py:63]: Searching for C49 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C49 footprint position: (201650000, 105950000)
 [board_modifier.py:96]: Getting S9 footprint position: (72000000, 51000000)
 [board_modifier.py:63]: Searching for LED9 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED9 footprint position: (72000000, 55700000)
+[board_modifier.py:63]: Searching for C9 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C9 footprint position: (66650000, 54950000)
 [board_modifier.py:96]: Getting S14 footprint position: (162000000, 51000000)
 [board_modifier.py:63]: Searching for LED14 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED14 footprint position: (162000000, 55700000)
+[board_modifier.py:63]: Searching for C14 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C14 footprint position: (156650000, 54950000)
 [board_modifier.py:96]: Getting S10 footprint position: (90000000, 51000000)
 [board_modifier.py:63]: Searching for LED10 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED10 footprint position: (90000000, 55700000)
+[board_modifier.py:63]: Searching for C10 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C10 footprint position: (84650000, 54950000)
 [board_modifier.py:96]: Getting S32 footprint position: (63000000, 85000000)
 [board_modifier.py:63]: Searching for LED32 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED32 footprint position: (63000000, 89700000)
+[board_modifier.py:63]: Searching for C32 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C32 footprint position: (57650000, 88950000)
 [board_modifier.py:96]: Getting S27 footprint position: (184500000, 68000000)
 [board_modifier.py:63]: Searching for LED27 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED27 footprint position: (184500000, 72700000)
+[board_modifier.py:63]: Searching for C27 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C27 footprint position: (179150000, 71950000)
 [board_modifier.py:96]: Getting S50 footprint position: (225000000, 102000000)
 [board_modifier.py:63]: Searching for LED50 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED50 footprint position: (225000000, 106700000)
+[board_modifier.py:63]: Searching for C50 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C50 footprint position: (219650000, 105950000)
 [board_modifier.py:96]: Getting S5 footprint position: (162000000, 34000000)
 [board_modifier.py:63]: Searching for LED5 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED5 footprint position: (162000000, 38700000)
+[board_modifier.py:63]: Searching for C5 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C5 footprint position: (156650000, 37950000)
 [board_modifier.py:96]: Getting S41 footprint position: (225000000, 85000000)
 [board_modifier.py:63]: Searching for LED41 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED41 footprint position: (225000000, 89700000)
+[board_modifier.py:63]: Searching for C41 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C41 footprint position: (219650000, 88950000)
 [board_modifier.py:96]: Getting S36 footprint position: (135000000, 85000000)
 [board_modifier.py:63]: Searching for LED36 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED36 footprint position: (135000000, 89700000)
+[board_modifier.py:63]: Searching for C36 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C36 footprint position: (129650000, 88950000)
 [board_modifier.py:96]: Getting S12 footprint position: (126000000, 51000000)
 [board_modifier.py:63]: Searching for LED12 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED12 footprint position: (126000000, 55700000)
+[board_modifier.py:63]: Searching for C12 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C12 footprint position: (120650000, 54950000)
 [board_modifier.py:96]: Getting S24 footprint position: (130500000, 68000000)
 [board_modifier.py:63]: Searching for LED24 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED24 footprint position: (130500000, 72700000)
+[board_modifier.py:63]: Searching for C24 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C24 footprint position: (125150000, 71950000)
 [board_modifier.py:96]: Getting S48 footprint position: (186750000, 102000000)
 [board_modifier.py:63]: Searching for LED48 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED48 footprint position: (186750000, 106700000)
+[board_modifier.py:63]: Searching for C48 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C48 footprint position: (181400000, 105950000)
 [board_modifier.py:96]: Getting S40 footprint position: (207000000, 85000000)
 [board_modifier.py:63]: Searching for LED40 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED40 footprint position: (207000000, 89700000)
+[board_modifier.py:63]: Searching for C40 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C40 footprint position: (201650000, 88950000)
 [board_modifier.py:96]: Getting S35 footprint position: (117000000, 85000000)
 [board_modifier.py:63]: Searching for LED35 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED35 footprint position: (117000000, 89700000)
+[board_modifier.py:63]: Searching for C35 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C35 footprint position: (111650000, 88950000)
 [board_modifier.py:96]: Getting S26 footprint position: (166500000, 68000000)
 [board_modifier.py:63]: Searching for LED26 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED26 footprint position: (166500000, 72700000)
+[board_modifier.py:63]: Searching for C26 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C26 footprint position: (161150000, 71950000)
 [board_modifier.py:96]: Getting S29 footprint position: (220500000, 68000000)
 [board_modifier.py:63]: Searching for LED29 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED29 footprint position: (220500000, 72700000)
+[board_modifier.py:63]: Searching for C29 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C29 footprint position: (215150000, 71950000)
 [board_modifier.py:96]: Getting S15 footprint position: (180000000, 51000000)
 [board_modifier.py:63]: Searching for LED15 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED15 footprint position: (180000000, 55700000)
+[board_modifier.py:63]: Searching for C15 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C15 footprint position: (174650000, 54950000)
 [board_modifier.py:96]: Getting S3 footprint position: (126000000, 34000000)
 [board_modifier.py:63]: Searching for LED3 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED3 footprint position: (126000000, 38700000)
+[board_modifier.py:63]: Searching for C3 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C3 footprint position: (120650000, 37950000)
 [board_modifier.py:96]: Getting S11 footprint position: (108000000, 51000000)
 [board_modifier.py:63]: Searching for LED11 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED11 footprint position: (108000000, 55700000)
+[board_modifier.py:63]: Searching for C11 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C11 footprint position: (102650000, 54950000)
 [board_modifier.py:96]: Getting S22 footprint position: (94500000, 68000000)
 [board_modifier.py:63]: Searching for LED22 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED22 footprint position: (94500000, 72700000)
+[board_modifier.py:63]: Searching for C22 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C22 footprint position: (89150000, 71950000)
 [board_modifier.py:96]: Getting S30 footprint position: (240750000, 68000000)
 [board_modifier.py:63]: Searching for LED30 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED30 footprint position: (240750000, 72700000)
+[board_modifier.py:63]: Searching for C30 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C30 footprint position: (235400000, 71950000)
 [board_modifier.py:96]: Getting S4 footprint position: (144000000, 34000000)
 [board_modifier.py:63]: Searching for LED4 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED4 footprint position: (144000000, 38700000)
+[board_modifier.py:63]: Searching for C4 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C4 footprint position: (138650000, 37950000)
 [board_modifier.py:96]: Getting S42 footprint position: (243000000, 85000000)
 [board_modifier.py:63]: Searching for LED42 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED42 footprint position: (243000000, 89700000)
+[board_modifier.py:63]: Searching for C42 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C42 footprint position: (237650000, 88950000)
 [board_modifier.py:96]: Getting S7 footprint position: (36000000, 51000000)
 [board_modifier.py:63]: Searching for LED7 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED7 footprint position: (36000000, 55700000)
+[board_modifier.py:63]: Searching for C7 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C7 footprint position: (30650000, 54950000)
 [board_modifier.py:96]: Getting S34 footprint position: (99000000, 85000000)
 [board_modifier.py:63]: Searching for LED34 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED34 footprint position: (99000000, 89700000)
+[board_modifier.py:63]: Searching for C34 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C34 footprint position: (93650000, 88950000)
 [board_modifier.py:96]: Getting S20 footprint position: (58500000, 68000000)
 [board_modifier.py:63]: Searching for LED20 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED20 footprint position: (58500000, 72700000)
+[board_modifier.py:63]: Searching for C20 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C20 footprint position: (53150000, 71950000)
 [board_modifier.py:96]: Getting S37 footprint position: (153000000, 85000000)
 [board_modifier.py:63]: Searching for LED37 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED37 footprint position: (153000000, 89700000)
+[board_modifier.py:63]: Searching for C37 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C37 footprint position: (147650000, 88950000)
 [board_modifier.py:96]: Getting S8 footprint position: (54000000, 51000000)
 [board_modifier.py:63]: Searching for LED8 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED8 footprint position: (54000000, 55700000)
+[board_modifier.py:63]: Searching for C8 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C8 footprint position: (48650000, 54950000)
 [board_modifier.py:96]: Getting S38 footprint position: (171000000, 85000000)
 [board_modifier.py:63]: Searching for LED38 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED38 footprint position: (171000000, 89700000)
+[board_modifier.py:63]: Searching for C38 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C38 footprint position: (165650000, 88950000)
 [board_modifier.py:96]: Getting S46 footprint position: (114750000, 102000000)
 [board_modifier.py:63]: Searching for LED46 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED46 footprint position: (114750000, 106700000)
+[board_modifier.py:63]: Searching for C46 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C46 footprint position: (109400000, 105950000)
 [board_modifier.py:96]: Getting S13 footprint position: (144000000, 51000000)
 [board_modifier.py:63]: Searching for LED13 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED13 footprint position: (144000000, 55700000)
+[board_modifier.py:63]: Searching for C13 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C13 footprint position: (138650000, 54950000)
 [board_modifier.py:96]: Getting S1 footprint position: (90000000, 34000000)
 [board_modifier.py:63]: Searching for LED1 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
 [board_modifier.py:83]: Setting LED1 footprint position: (90000000, 38700000)
+[board_modifier.py:63]: Searching for C1 footprint in /Users/hiplandic/developer/KiCAD/Puffin/Puffin.kicad_pcb
+[board_modifier.py:83]: Setting C1 footprint position: (84650000, 37950000)
 [key_placer.py:361]: Routing S43 with D43
 [key_placer.py:363]: Using internal autorouter method
 [board_modifier.py:433]: Routing at B.Cu layer
@@ -724,27 +826,8 @@
 [board_modifier.py:362]: Adding track segment (B.Cu): [(98500000, 32900000), (97750000, 33650000)]
 [board_modifier.py:367]: Track added
 [key_placer.py:395]: Removing dangling tracks
-[key_placer.py:407]: Removing 88ea52c3-f327-4323-a7c7-d835bcccc3f6
-[key_placer.py:407]: Removing f306fd44-606d-4d9e-a00c-3aba8365db32
-[key_placer.py:407]: Removing 632ae88d-ad27-4914-a5d9-ada2176b4c2c
-[key_placer.py:407]: Removing f82857e2-d9aa-4cf5-8bb9-80e434806323
-[key_placer.py:407]: Removing 1edfcfd8-5035-4d39-b4c3-b01b25651019
-[key_placer.py:407]: Removing 80de1caf-89c4-48d1-a79e-5463613c36a5
-[key_placer.py:407]: Removing 45172b2e-19e9-4c4c-b027-9e49c9038951
-[key_placer.py:407]: Removing 2621c115-ac96-4d77-8bc4-6b8bd96ce4bf
-[key_placer.py:407]: Removing 12ef18f9-5913-4d60-b5cc-0d69318b1cbc
-[key_placer.py:407]: Removing f5133187-e666-4ca6-9cd8-0075f402750a
-[key_placer.py:407]: Removing 2b82ae3c-d1d0-4ec2-adba-25b37877a32e
-[key_placer.py:407]: Removing 09389824-5c42-42b7-86c2-b021db98e41b
-[key_placer.py:407]: Removing fe79d388-d91a-4c4f-a82f-1ea566b2989c
-[key_placer.py:395]: Removing dangling tracks
-[key_placer.py:407]: Removing de217cae-ddcd-47a7-9a8e-4716bc68eed6
-[key_placer.py:407]: Removing d0e1f152-9773-4577-ac70-2e09157b8bbf
-[key_placer.py:407]: Removing a923c527-6e44-4c5f-b4a9-98df2d5e304e
-[key_placer.py:407]: Removing b240e015-2b94-4928-a869-48dbe9b98bc6
-[key_placer.py:407]: Removing 9bf91037-8984-4124-a832-f8d38a61cfba
-[key_placer.py:407]: Removing 939beefb-bbe2-4747-a8c3-7c6f90e6521e
-[key_placer.py:395]: Removing dangling tracks
-[key_placer.py:407]: Removing 4f5b14b8-cdf0-4e44-8fdb-f74c0b7a5cce
-[key_placer.py:407]: Removing d1bc5582-443f-4414-93cc-6e4670641c84
+[key_placer.py:407]: Removing d594cef0-454c-4a5e-902d-8d8b800dd4ba
+[key_placer.py:407]: Removing 1c7b951b-bd17-41f5-8b53-8c80cd20593f
+[key_placer.py:407]: Removing 840ed2e2-f1fb-4580-8f29-54a7f8ff3759
+[key_placer.py:407]: Removing 1cb38d64-65e1-4cb2-a224-df947ee7d354
 [key_placer.py:395]: Removing dangling tracks
