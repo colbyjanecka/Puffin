@@ -2841,7 +2841,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 95.25 95.25 90)
 			(effects
 				(font
@@ -2929,7 +2929,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 158.75 72.39 90)
 			(effects
 				(font
@@ -3017,7 +3017,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 184.15 95.25 90)
 			(effects
 				(font
@@ -3105,7 +3105,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 95.25 52.07 90)
 			(effects
 				(font
@@ -3193,7 +3193,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 196.85 138.43 90)
 			(effects
 				(font
@@ -3485,7 +3485,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 158.75 138.43 90)
 			(effects
 				(font
@@ -3573,7 +3573,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 82.55 72.39 90)
 			(effects
 				(font
@@ -3661,7 +3661,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 69.85 116.84 90)
 			(effects
 				(font
@@ -3749,7 +3749,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 171.45 72.39 90)
 			(effects
 				(font
@@ -3905,7 +3905,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 133.35 52.07 90)
 			(effects
 				(font
@@ -3993,7 +3993,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 120.65 72.39 90)
 			(effects
 				(font
@@ -4081,7 +4081,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 95.25 116.84 90)
 			(effects
 				(font
@@ -4305,7 +4305,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 133.35 138.43 90)
 			(effects
 				(font
@@ -4461,7 +4461,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 120.65 95.25 90)
 			(effects
 				(font
@@ -4549,7 +4549,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 120.65 116.84 90)
 			(effects
 				(font
@@ -4841,7 +4841,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 107.95 95.25 90)
 			(effects
 				(font
@@ -4997,7 +4997,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 57.15 116.84 90)
 			(effects
 				(font
@@ -5085,7 +5085,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 57.15 95.25 90)
 			(effects
 				(font
@@ -5440,7 +5440,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 196.85 95.25 90)
 			(effects
 				(font
@@ -5592,7 +5592,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 184.15 72.39 90)
 			(effects
 				(font
@@ -6020,7 +6020,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 82.55 116.84 90)
 			(effects
 				(font
@@ -6176,7 +6176,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 120.65 52.07 90)
 			(effects
 				(font
@@ -6328,7 +6328,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 133.35 95.25 90)
 			(effects
 				(font
@@ -6552,7 +6552,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 171.45 116.84 90)
 			(effects
 				(font
@@ -6912,7 +6912,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 158.75 52.07 90)
 			(effects
 				(font
@@ -7000,7 +7000,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 57.15 72.39 90)
 			(effects
 				(font
@@ -7156,7 +7156,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 69.85 72.39 90)
 			(effects
 				(font
@@ -7244,7 +7244,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 146.05 52.07 90)
 			(effects
 				(font
@@ -7400,7 +7400,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 184.15 116.84 90)
 			(effects
 				(font
@@ -7488,7 +7488,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 82.55 95.25 90)
 			(effects
 				(font
@@ -7576,7 +7576,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 107.95 116.84 90)
 			(effects
 				(font
@@ -7731,7 +7731,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 146.05 72.39 90)
 			(effects
 				(font
@@ -7887,7 +7887,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 158.75 95.25 90)
 			(effects
 				(font
@@ -8043,7 +8043,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 171.45 95.25 90)
 			(effects
 				(font
@@ -8131,7 +8131,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 82.55 138.43 90)
 			(effects
 				(font
@@ -8491,7 +8491,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 184.15 138.43 90)
 			(effects
 				(font
@@ -8647,7 +8647,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 196.85 116.84 90)
 			(effects
 				(font
@@ -8935,7 +8935,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 146.05 95.25 90)
 			(effects
 				(font
@@ -9023,7 +9023,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 196.85 72.39 90)
 			(effects
 				(font
@@ -9111,7 +9111,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 95.25 72.39 90)
 			(effects
 				(font
@@ -9199,7 +9199,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 107.95 138.43 90)
 			(effects
 				(font
@@ -9355,7 +9355,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 57.15 138.43 90)
 			(effects
 				(font
@@ -9647,7 +9647,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 133.35 72.39 90)
 			(effects
 				(font
@@ -9799,7 +9799,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 146.05 116.84 90)
 			(effects
 				(font
@@ -9886,7 +9886,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 107.95 52.07 90)
 			(effects
 				(font
@@ -10042,7 +10042,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 107.95 72.39 90)
 			(effects
 				(font
@@ -10130,7 +10130,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 158.75 116.84 90)
 			(effects
 				(font
@@ -10490,7 +10490,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 69.85 95.25 90)
 			(effects
 				(font
@@ -10710,7 +10710,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 133.35 116.84 90)
 			(effects
 				(font
@@ -10798,7 +10798,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 171.45 138.43 90)
 			(effects
 				(font
@@ -11022,7 +11022,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Nexperia_CFP3_SOD-123W"
+		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
 			(at 69.85 138.43 90)
 			(effects
 				(font

@@ -7497,7 +7497,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 177.8 27.94 0)
+			(at 188.976 28.194 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8569,7 +8569,7 @@
 		(dnp no)
 		(uuid "41530282-b082-49ea-b0f3-e5fa246a5444")
 		(property "Reference" "LED3"
-			(at 111.76 25.654 0)
+			(at 122.682 26.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8577,7 +8577,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 111.76 28.194 0)
+			(at 122.936 28.194 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9902,7 +9902,7 @@
 		(dnp no)
 		(uuid "4d99d11d-0c3a-4c25-8968-2b4c17644c7f")
 		(property "Reference" "LED2"
-			(at 91.44 25.146 0)
+			(at 99.822 26.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9910,7 +9910,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 90.424 27.686 0)
+			(at 100.33 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14861,7 +14861,7 @@
 		(dnp no)
 		(uuid "9a2be197-9f48-400a-8ccc-a6700469a0a1")
 		(property "Reference" "LED5"
-			(at 156.21 25.654 0)
+			(at 166.37 26.162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14869,7 +14869,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 156.21 28.194 0)
+			(at 167.64 28.194 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15339,7 +15339,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 157.48 28.194 90)
+			(at 153.924 24.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15865,7 +15865,7 @@
 		(dnp no)
 		(uuid "a991ac27-772a-476e-9001-9507289478fb")
 		(property "Reference" "LED1"
-			(at 67.31 25.654 0)
+			(at 78.486 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15873,7 +15873,7 @@
 			)
 		)
 		(property "Value" "SK6812"
-			(at 67.31 28.194 0)
+			(at 78.486 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16284,7 +16284,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 179.07 28.194 90)
+			(at 179.324 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18240,7 +18240,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 90.17 28.194 90)
+			(at 90.17 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18502,7 +18502,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 113.03 28.194 90)
+			(at 113.03 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
